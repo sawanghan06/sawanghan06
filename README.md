@@ -10,7 +10,7 @@
 </p> -->
 
 <p align="left">
-<h3 align="left">My Tech Stacks</h3>
+<h3 align="left">My Tech Stacks: </h3>
 
 <!-- languages: java/Kotlin/js/python/C++ -->
 <h4 align="left">Languages: Java/Kotlin/JavaScriot/Python/C++</h3>
@@ -18,8 +18,7 @@
  
 <!-- Frameworks: Spring/React/Django-->
 <h4 align="left">Frameworks: Spring/Django/React</h3>
-<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40px" height="40px"></a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
+<a href="https://spring.io/" title="Spring"><img src="https://github.com/get-icon/geticon/raw/master/icons/spring.svg" alt="Spring" width="40px" height="40px"></a><a href="https://www.djangoproject.com/" title="Django"><img src="https://github.com/get-icon/geticon/raw/master/icons/django.svg" alt="Django" width="40px" height="40px"></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
  
 <!-- Tools: w3/html/bash/git/AWS/ -->
 <h4 align="left">Tools: HTML/CSS/Linux/Git/AWS/GCS/Dockers/Android/Postman</h3>
