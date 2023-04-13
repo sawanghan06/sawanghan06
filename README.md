@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning <<Kotlin>>
-- 💬 Ask me about <<Java/Kotlin, JavaScript, Python, C++, React and Spring>>
+- 🌱 I’m currently learning <--Kotlin-->
+- 💬 Ask me about <--Java/Kotlin, JavaScript, Python, C++, React and Spring-->
 
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
