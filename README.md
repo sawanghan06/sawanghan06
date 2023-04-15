@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning **Kotlin**
-- 💬 Ask me about **Java/Kotlin, JavaScript, Python, React and Spring**
+- 💬 Ask me about **Java/Kotlin, Python, JavaScript, React and Spring**
 
 <p align="left">
 <h3 align="left">My Skills: </h3>
