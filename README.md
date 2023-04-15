@@ -4,7 +4,7 @@
 - 💬 Ask me about **Java/Kotlin, JavaScript, Python, React and Spring**
 
 <p align="left">
-<h3 align="left">My Tech Stacks: </h3>
+<h3 align="left">My Skills: </h3>
 
 <!-- languages: java/Kotlin/js/python/C++ -->
 <h4 align="left">Languages and Frameworks: Java/Kotlin/JavaScriot/Python/C++/Spring/Django/React</h4>
